@@ -1,0 +1,38 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ColorSwitch",
+            "request": "launch",
+            "mainClass": "ColorSwitch",
+            "projectName": "color-switch-main_67c5c89e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ColorSwitch",
+            "request": "launch",
+            "mainClass": "game.ColorSwitch",
+            "projectName": "color-switch_9f1e075",
+            "vmArgs": "--module-path lib --add-modules javafx.base,javafx.graphics"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "vmArgs": "--module-path lib --add-modules javafx.base,javafx.graphics"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ColorSwitch<test_e5263f29>",
+            "request": "launch",
+            "mainClass": "game.ColorSwitch",
+            "projectName": "test_e5263f29",
+            "vmArgs": "--module-path lib --add-modules javafx.base,javafx.graphics"
+        }
+    ]
+}
