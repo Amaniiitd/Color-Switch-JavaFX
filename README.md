@@ -13,10 +13,3 @@ sudo apt-get install openjfx
 ```
 
 
-## In Game Screenshots
-
-![collage](https://user-images.githubusercontent.com/55682057/104103503-78e2d300-52c8-11eb-857c-03a85bc40a3e.jpg)
-
-## Contributing Guide
-
-To get started with contributions, have a look at [CONTRIBUTING.md](https://github.com/hadron43/Color-Switch-Game/blob/main/CONTRIBUTING.md)
